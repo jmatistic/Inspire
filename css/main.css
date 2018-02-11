@@ -1,0 +1,37 @@
+.logo {
+	height: 2rem;
+}
+
+footer {
+	background-color: #BDBDBD;
+	padding: 1rem 1rem;
+	font-size: 2rem;
+}
+
+.top-bar {
+	background-color: #BDBDBD;
+}
+
+aside {
+	padding: 3rem 0; 
+}
+
+
+footer .logo {
+	height: 5rem;
+	text-align: center;
+}
+
+footer h3 {
+	font-size: 1rem;
+	text-align: center;
+}
+
+footer ul {
+	float: right;
+	text-align:center;
+}
+
+.fa {
+	color: #ffffff;
+}
