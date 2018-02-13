@@ -3,13 +3,17 @@
 }
 
 footer {
-	background-color: #BDBDBD;
+	background-color: black;
 	padding: 1rem 1rem;
 	font-size: 2rem;
 }
 
 .top-bar {
-	background-color: #BDBDBD;
+	background-color: black;
+}
+
+.hero {
+	background-size: cover;
 }
 
 aside {
@@ -25,13 +29,15 @@ footer .logo {
 footer h3 {
 	font-size: 1rem;
 	text-align: center;
+	color: white;
 }
 
 footer ul {
 	float: right;
-	text-align:center;
+	text-align: center;
+	color: white;
 }
 
 .fa {
-	color: #ffffff;
+	color: white;
 }
