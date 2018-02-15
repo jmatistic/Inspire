@@ -3,13 +3,16 @@
 }
 
 footer {
-	background-color: black;
+	background-color: #2196F3;
 	padding: 1rem 1rem;
 	font-size: 2rem;
 }
 
 .top-bar {
-	background-color: black;
+	background-color: #2196F3;
+}
+.top-bar-section nav ul .right {
+	background-color: #2196F3;
 }
 
 .hero {
